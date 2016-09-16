@@ -1,3 +1,4 @@
+#/opt/local/bin/python $filename
 import numpy as np
 import time
 import os
